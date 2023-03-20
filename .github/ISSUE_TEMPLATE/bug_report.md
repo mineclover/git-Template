@@ -2,7 +2,8 @@
 name: Bug report
 about: 버그 설명 템플릿, 치명적인 수준에 따라 우선 순위 조정 할 것
 title: "[BUG]"
-labels: 'Priority: Medium, Status: Not started, Type: Bug'
+labels: 'Category: Docs, Priority: Critical, Priority: Medium, Status: Not started,
+  Type: Bug'
 assignees: ''
 
 ---
